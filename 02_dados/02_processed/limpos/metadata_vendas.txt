@@ -1,0 +1,8 @@
+total_transacoes: 100003
+periodo_inicio: 2024-01-01
+periodo_fim: 2026-02-02
+produtos_unicos: 50
+lojas_unicas: 150
+clientes_unicos: 69897
+valor_total_vendas: 439495121.93
+data_geracao: 2026-02-07 16:48:48
